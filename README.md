@@ -75,7 +75,17 @@
 > 💬 “Good code is the one your future self understands without sighing.”  
 
 ---
-## 🐍 GitHub Contribution Snake
+## 👾 GitHub Pac-Man Contributions
+
+picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+---
 
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
