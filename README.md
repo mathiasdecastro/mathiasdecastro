@@ -70,9 +70,11 @@
 
 ## 👾 GitHub Pac-Man Contributions
 
-<p align="center">
-  <img src="https://github.com/Platane/gh-pacman/raw/main/pacman.svg" alt="Pac-Man GitHub contribution" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 > 💬 “Good code is the one your future self understands without sighing.”  
 
