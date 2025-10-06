@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="24" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="12" />
 </div>
 
 ### 🛠 Tools & DevOps
@@ -66,12 +68,6 @@
   <img width="12" />
 </div>
 
-### 🧩 Other Technical Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="12" />
-</div>
-
 ### 🎨 Multimedia & Creative Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
@@ -84,13 +80,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Favorite Projects
 
 | Project | Description | Tech |
 |--------|------------|-------|
-| 🎲 [Online Monopoly](https://github.com/Mathiasdecastro/Monopoly) | Multiplayer game with SQLite database and advanced game logic | C#, SQLite |
-| ⚡ [FastAPI Template](https://github.com/Mathiasdecastro/fastapi-template) | Efficient API with full documentation and CI/CD ready | Python, FastAPI |
-| 🧩 [React Portfolio](https://github.com/Mathiasdecastro/portfolio) | Responsive personal portfolio website | React, TailwindCSS |
+| 🎲 [Example](https://github.com/Mathiasdecastro/Monopoly) | Multiplayer game with SQLite database and advanced game logic | C#, SQLite |
+| ⚡ [Example](https://github.com/Mathiasdecastro/fastapi-template) | Efficient API with full documentation and CI/CD ready | Python, FastAPI |
+| 🧩 [Example](https://github.com/Mathiasdecastro/portfolio) | Responsive personal portfolio website | React, TailwindCSS |
 
 ---
 
