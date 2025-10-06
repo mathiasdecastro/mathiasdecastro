@@ -75,7 +75,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<p align="center">
+  _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+</p>
 
 > 💬 “Good code is the one your future self understands without sighing.”  
 
