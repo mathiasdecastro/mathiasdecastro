@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Mathias
 
-🎓 Computer Science student | Fullstack Developer | Passionate about clean and efficient code  
-🌱 Improving my DevOps and Cloud skills  
+🎓 Computer Science student | Fullstack Developer | Passionate about clean and efficient code
+🌱 Continuously improving my development skills, exploring DevOps, game development, and multimedia creation
+💡 Always curious, creative, and eager to learn new technologies
 
 ---
 
