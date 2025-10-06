@@ -66,9 +66,16 @@
   <a href="https://www.linkedin.com/in/ton-lien/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/mathiasdecastro/aathiasdecastro/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 > 💬 “Good code is the one your future self understands without sighing.”  
 
 ---
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
