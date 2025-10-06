@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/mathiasdecastro/aathiasdecastro/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/snake.svg" alt="Snake animation" />
 </p>
 
 > 💬 “Good code is the one your future self understands without sighing.”  
