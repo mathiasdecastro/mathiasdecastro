@@ -83,9 +83,8 @@
 
 | Project | Description | Tech |
 |--------|------------|-------|
-| 🎲 [Example](https://github.com/Mathiasdecastro/Monopoly) | Multiplayer game with SQLite database and advanced game logic | C#, SQLite |
-| ⚡ [Example](https://github.com/Mathiasdecastro/fastapi-template) | Efficient API with full documentation and CI/CD ready | Python, FastAPI |
-| 🧩 [Example](https://github.com/Mathiasdecastro/portfolio) | Responsive personal portfolio website | React, TailwindCSS |
+| 🎲 [CHIP-8 Emulator](https://github.com/mathiasdecastro/chip8-emulator) | A minimal CHIP-8 emulator in C++ to explore and run retro programs. | C++, CMake |
+| 🧩 [Portfolio](https://github.com/mathiasdecastro/portfolio) | Responsive personal portfolio website | React, CSS |
 
 ---
 
