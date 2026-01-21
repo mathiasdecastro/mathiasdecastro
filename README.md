@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,java,php,symfony" height="35" />
 </p>
 
-### 🗄️ Database & Storage
+### 💾 Database & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="35" />
 </p>
