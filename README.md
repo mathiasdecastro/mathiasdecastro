@@ -40,7 +40,7 @@
 | Project | Description | Tech |
 |--------|------------|-------|
 | 🎲 [CHIP-8 Emulator](https://github.com/mathiasdecastro/chip8-emulator) | A minimal CHIP-8 emulator in C++ to explore and run retro programs. | C++, CMake |
-| 🧩 [Portfolio](https://github.com/mathiasdecastro/portfolio) | Responsive personal portfolio website | React, CSS |
+| 🧩 [Test](https://github.com/mathiasdecastro/test) | test | test |
 
 ---
 
