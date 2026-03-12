@@ -35,15 +35,6 @@
 
 ---
 
-## 🚀 Favorite Projects
-
-| Project | Description | Tech |
-|--------|------------|-------|
-| 🎲 [CHIP-8 Emulator](https://github.com/mathiasdecastro/chip8-emulator) | A minimal CHIP-8 emulator in C++ to explore and run retro programs. | C++, CMake |
-| 🧩 [Test](https://github.com/mathiasdecastro/test) | test | test |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
