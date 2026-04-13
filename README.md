@@ -11,26 +11,22 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **CS Student** focused on building scalable web applications.
-- 🎮 **Passionate** about Game Development and creating immersive experiences.
+- 🎓 **CS Student** driven by the challenge of building whatever I can imagine.
+- 🎮 **Passionate** about Game Development.
 - 🎨 **Creative** eye for UI/UX Design and Video Production.
 
 ---
 
 ### 🛠️ Technical Stack
 
-#### 💎 Core Expertise
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" alt="C# and .NET focus" />
-</p>
-
 #### 🌐 Fullstack Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,symfony,python,java,mysql,docker,linux" height="35" />
 </p>
 
-#### 🎬 Game Dev & Multimedia
+#### 🎬 Game Dev
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" alt="C# and .NET focus" />
   <img src="https://skillicons.dev/icons?i=unity,cpp,figma,pr,ae" height="35" />
 </p>
 
