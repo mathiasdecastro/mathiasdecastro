@@ -19,37 +19,35 @@
 
 ### 🛠️ Technical Stack
 
-#### 🎨 Frontend
+#### 🌐 Web Development (Logic & UI)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,symfony" height="40" alt="Web Stack" />
 </p>
 
-#### 🧠 Backend (My Core)
+#### 🎮 Game Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" alt="Core Backend" />
-  <img src="https://skillicons.dev/icons?i=php,symfony,python,java" height="40" alt="Other Backend" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" height="40" alt="Game Dev Stack" />
 </p>
 
-#### 🎮 Game Dev & Engine
+#### 🖥️ Low-Level & System Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cpp" height="40" alt="Game Development" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" height="40" alt="Systems Stack" />
 </p>
 
-#### 🗄️ Database & Storage
+#### 🗄️ Database Management
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40" alt="Databases" />
 </p>
 
-#### 🐋 Infrastructure & Tools
+#### 🎬 Multimedia & Creative Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,vscode" height="40" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=figma,pr,ae" height="40" alt="Creative Stack" />
 </p>
 
-#### 🎬 Creative Studio
+#### 🔧 Infrastructure & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,pr,ae" height="40" alt="Design and Video" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,vscode" height="40" alt="Workflow Tools" />
 </p>
-
 ---
 
 ### 🕹️ Current Sprint
