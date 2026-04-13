@@ -1,15 +1,5 @@
 # 👋 Hi, I'm Mathias
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-France-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Mathiasdecastro?label=Followers&style=flat-square" />
-</p>
-
-> **“Good code is the one your future self understands without sighing.”**
-
----
-
 ### 🚀 About Me
 - **CS Student** driven by the challenge of building whatever I can imagine.
 - **Passionate** about Game Development.
