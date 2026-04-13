@@ -54,6 +54,7 @@
 
 #### Creative Studio
 * **Design & Video:** `Figma`, `After Effects`, `Premiere Pro`
+* **IDE:** `Visual Studio Code`, `Visual Studio`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ae,pr,vscode,visualstudio" height="40" />
 </p>
