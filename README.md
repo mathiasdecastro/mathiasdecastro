@@ -19,7 +19,7 @@
 
 ### 🛠️ Technical Arsenal
 
-#### 💻 Programming Languages
+#### Programming Languages
 * **General Purpose:** `Java`, `Python`, `C#`
 * **Systems & Low-Level:** `C`, `C++`, `Rust`
 * **Web Core:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
@@ -27,32 +27,32 @@
   <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,rust,js,ts,html,css" height="40" />
 </p>
 
-#### 🌐 Web Frameworks & Libraries
+#### Web Frameworks & Libraries
 * **Backend:** `PHP` (Symfony)
 * **Frontend:** `React`, `Vue`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,symfony,react,vue" height="40" />
 </p>
 
-#### 🎮 Game Development
+#### Game Development
 * **Engine & Logic:** `Unity`, `C#`, `.NET`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" height="40" />
 </p>
 
-#### 🗄️ Database Management
+#### Database Management
 * **Relational & NoSQL:** `PostgreSQL`, `SQL`, `SQLite`, `MongoDB`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40" />
 </p>
 
-#### ♾️ DevOps & CI-CD
+#### DevOps & CI-CD
 * **Automation & Infra:** `GitHub Actions`, `GitLab`, `Docker`, `Linux`, `Bash`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,linux,bash,git" height="40" />
 </p>
 
-#### 🎬 Creative Studio
+#### Creative Studio
 * **Design & Video:** `Figma`, `After Effects`, `Premiere Pro`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ae,pr,vscode,visualstudio" height="40" />
