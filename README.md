@@ -57,10 +57,6 @@
 ---
 
 ### 📊 Vital Signs
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mathiasdecastro&show_icons=true&theme=neon&border_radius=10" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasdecastro&layout=compact&theme=neon&border_radius=10" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathiasdecastro&theme=neon&hide_border=true" alt="GitHub Streak" />
