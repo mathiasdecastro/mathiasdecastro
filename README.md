@@ -17,37 +17,47 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Arsenal
 
-#### 🌐 Web Development (Logic & UI)
+#### 💻 Programming Languages
+* **General Purpose:** `Java`, `Python`, `C#`
+* **Systems & Low-Level:** `C`, `C++`, `Rust`
+* **Web Core:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,symfony" height="40" alt="Web Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,rust,js,ts,html,css" height="40" />
+</p>
+
+#### 🌐 Web Frameworks & Libraries
+* **Backend:** `PHP` (Symfony)
+* **Frontend:** `React`, `Vue`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,symfony,react,vue" height="40" />
 </p>
 
 #### 🎮 Game Development
+* **Engine & Logic:** `Unity`, `C#`, `.NET`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" height="40" alt="Game Dev Stack" />
-</p>
-
-#### 🖥️ Low-Level & System Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python" height="40" alt="Systems Stack" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" height="40" />
 </p>
 
 #### 🗄️ Database Management
+* **Relational & NoSQL:** `PostgreSQL`, `SQL`, `SQLite`, `MongoDB`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40" />
 </p>
 
-#### 🎬 Multimedia & Creative Design
+#### ♾️ DevOps & CI-CD
+* **Automation & Infra:** `GitHub Actions`, `GitLab`, `Docker`, `Linux`, `Bash`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,pr,ae" height="40" alt="Creative Stack" />
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,linux,bash,git" height="40" />
 </p>
 
-#### 🔧 Infrastructure & Workflow
+#### 🎬 Creative Studio
+* **Design & Video:** `Figma`, `After Effects`, `Premiere Pro`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,vscode" height="40" alt="Workflow Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ae,pr,vscode,visualstudio" height="40" />
 </p>
+
 ---
 
 ### 🕹️ Current Sprint
