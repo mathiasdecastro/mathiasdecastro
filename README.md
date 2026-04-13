@@ -1,71 +1,79 @@
 # 👋 Hi, I'm Mathias
 
-🎓 Computer Science student | Fullstack / Game Developer | Passionate about clean and efficient code  
-🌱 Continuously improving my development skills, exploring game development and multimedia creation  
-💡 Always curious, creative, and eager to learn new technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-France-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Mathiasdecastro?label=Followers&style=flat-square" />
+</p>
+
+> **“Good code is the one your future self understands without sighing.”**
 
 ---
 
-## 🧰 Skills
+### 🚀 About Me
+- 🎓 **CS Student** focused on building scalable web applications.
+- 🎮 **Passionate** about Game Development and creating immersive experiences.
+- 🎨 **Creative** eye for UI/UX Design and Video Production.
 
-### 🎨 Frontend & Design
+---
+
+### 🛠️ Technical Stack
+
+#### 💎 Core Expertise
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" height="35" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" alt="C# and .NET focus" />
 </p>
 
-### ⚙️ Backend & Systems
+#### 🌐 Fullstack Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,java,php,symfony" height="35" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,symfony,python,java,mysql,docker,linux" height="35" />
 </p>
 
-### 💾 Database & Storage
+#### 🎬 Game Dev & Multimedia
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="35" />
-</p>
-
-### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,linux,vscode,postman,bash,gradle" height="35" />
-</p>
-
-### 🎬 Game Dev & Multimedia
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,pr,ae" height="35" />
+  <img src="https://skillicons.dev/icons?i=unity,cpp,figma,pr,ae" height="35" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🕹️ Current Sprint
+- 🛠️ **Learning:** Advanced Unity patterns & Software Architecture.
+- 🎯 **Goal:** Developing a fast-paced prototype to showcase C# optimization.
+
+---
+
+### 📊 Vital Signs
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mathiasdecastro&show_icons=true&theme=neon&border_radius=10" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasdecastro&layout=compact&theme=neon&border_radius=10" />
+</p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mathiasdecastro&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasdecastro&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathiasdecastro&theme=neon&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Contact Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/mathiasdecastro"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:mathias.decastrozachantke@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</div>
-
----
-## 👾 GitHub Pac-Man Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-> 💬 “Good code is the one your future self understands without sighing.”  
+### 👾 Contribution Odyssey
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
+
+### 📬 Reach Out
+<p align="center">
+  <a href="https://linkedin.com/in/mathiasdecastro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mathias.decastrozachantke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
+  <i>Thanks for stopping by! 🚀</i>
 </p>
