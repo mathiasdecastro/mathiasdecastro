@@ -26,7 +26,7 @@
 
 #### 🎬 Game Dev
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" alt="C# and .NET focus" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="35" alt="C# and .NET focus" />
   <img src="https://skillicons.dev/icons?i=unity,cpp,figma,pr,ae" height="35" />
 </p>
 
