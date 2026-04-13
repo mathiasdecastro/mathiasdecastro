@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **CS Student** driven by the challenge of building whatever I can imagine.
-- 🎮 **Passionate** about Game Development.
-- 🎨 **Creative** eye for UI/UX Design and Video Production.
+- **CS Student** driven by the challenge of building whatever I can imagine.
+- **Passionate** about Game Development.
+- **Creative** eye for UI/UX Design and Video Production.
 
 ---
 
@@ -57,12 +57,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ae,pr,vscode,visualstudio" height="40" />
 </p>
-
----
-
-### 🕹️ Current Sprint
-- 🛠️ **Learning:** Advanced Unity patterns & Software Architecture.
-- 🎯 **Goal:** Developing a fast-paced prototype to showcase C# optimization.
 
 ---
 
