@@ -19,15 +19,29 @@
 
 ### 🛠️ Technical Stack
 
-#### 🌐 Fullstack Web Development
+#### 💻 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,symfony,python,java,mysql,docker,linux" height="35" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" height="40" alt="Frontend Stack" />
 </p>
 
-#### 🎬 Game Dev
+#### ⚙️ Backend & Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="35" alt="C# and .NET focus" />
-  <img src="https://skillicons.dev/icons?i=unity,cpp,figma,pr,ae" height="35" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,symfony,python,java,mysql" height="40" alt="Backend Stack" />
+</p>
+
+#### 🎮 Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cpp" height="40" alt="Game Dev Stack" />
+</p>
+
+#### 🛠️ DevOps & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,vscode" height="40" alt="DevOps Stack" />
+</p>
+
+#### 🎬 Multimedia & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pr,ae" height="40" alt="Multimedia Stack" />
 </p>
 
 ---
