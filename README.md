@@ -31,7 +31,7 @@
 </p>
 
 #### Database Management
-* **Relational & NoSQL:** `PostgreSQL`, `SQL`, `SQLite`, `MongoDB`
+* **Relational & NoSQL:** `PostgreSQL`, `MySQL`, `SQLite`, `MongoDB`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40" />
 </p>
