@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - **CS Student** driven by the challenge of building whatever I can imagine.
 - **Passionate** about Game Development.
-- **Creative** eye for UI/UX Design and Video Production.
+- **Creative** eye for Video Production.
 
 ---
 
