@@ -155,8 +155,8 @@ Looking for a **software development position** or a **Master's degree** where I
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" />
-<img src="./profile/top-langs.svg" height="165" />
+<img src="./profile/stats.svg?v=2" height="165" />
+<img src="./profile/top-langs.svg?v=2" height="165" />
 
 </div>
 
