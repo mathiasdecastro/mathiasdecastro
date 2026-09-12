@@ -1,84 +1,192 @@
-# 👋 Hi, I'm Mathias
+<div align="center">
 
-### 🚀 About Me
-- **CS Student** driven by the challenge of building whatever I can imagine.
-- **Passionate** about Game Development.
-- **Creative** eye for Video Production.
+# MATHIAS DE CASTRO
 
----
+### Application Developer · Backend · Game Development
 
-### 🛠️ Technical Arsenal
+*I'm a developer who enjoys building things from scratch and understanding how they work.*
+*I particularly enjoy backend development, game development, and experimenting with different technologies.*
 
-#### Programming Languages
-* **General Purpose:** `Java`, `Python`, `C#`
-* **Systems & Low-Level:** `C`, `C++`, `Rust`
-* **Web Core:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,c,cpp,rust,js,ts,html,css" height="40" />
-</p>
+<br>
 
-#### Web Frameworks & Libraries
-* **Backend:** `PHP` (Symfony)
-* **Frontend:** `React`, `Vue`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,symfony,react,vue" height="40" />
-</p>
+**Currently looking for a software development position or a Master's degree.**
 
-#### Game Development
-* **Engine & Logic:** `Unity`, `C#`, `.NET`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" height="40" />
-</p>
+<br>
 
-#### Database Management
-* **Relational & NoSQL:** `PostgreSQL`, `MySQL`, `SQLite`, `MongoDB`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40" />
-</p>
+[GitHub](https://github.com/mathiasdecastro) · [LinkedIn](https://linkedin.com/in/mathiasdecastro) · [Email](mailto:mathias.decastrozachantke@gmail.com)
 
-#### DevOps & CI-CD
-* **Automation & Infra:** `GitHub Actions`, `GitLab`, `Docker`, `Linux`, `Bash`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,linux,bash,git" height="40" />
-</p>
-
-#### Creative Studio
-* **Design & Video:** `Figma`, `After Effects`, `Premiere Pro`
-* **IDE:** `Visual Studio Code`, `Visual Studio`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ae,pr,vscode,visualstudio" height="40" />
-</p>
+</div>
 
 ---
 
-### 📊 Vital Signs
+## ABOUT // PROFILE
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathiasdecastro&theme=neon&hide_border=true" alt="GitHub Streak" />
-</p>
+I like understanding what happens behind the scenes — from application architecture and data management to low-level systems and game mechanics.
 
----
+I enjoy taking an idea, breaking it down, and turning it into something that actually works.
 
-### 👾 Contribution Odyssey
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+My main interests are **backend development**, **software engineering**, and **game development**, with a particular curiosity for systems, performance, and learning how technologies work under the hood.
 
 ---
 
-### 📬 Reach Out
-<p align="center">
-  <a href="https://linkedin.com/in/mathiasdecastro">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mathias.decastrozachantke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+## TECH STACK // TOOLS OF THE TRADE
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,java,python,php,bash" height="40" />
 </p>
 
-<p align="center">
-  <i>Thanks for stopping by! 🚀</i>
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,sqlite,mongodb" height="40" />
 </p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,cmake,maven,gradle" height="40" />
+</p>
+
+### CI/CD & Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,unity" height="40" />
+</p>
+
+<details>
+<summary>Other technologies I've worked with</summary>
+
+<br>
+
+**Web:** JavaScript · HTML · CSS · React · Vue · Symfony · MySQL
+
+**Development:** Visual Studio · VS Code
+
+**Creative:** Figma · After Effects · Premiere Pro
+
+</details>
+
+---
+
+## SELECTED PROJECTS // BUILD LOG
+
+> A selection of things I've built, experimented with, or am currently working on.
+
+<table>
+<tr>
+<td colspan="2">
+
+### 01 — Flagship
+
+**[Project Name](#)**
+
+A serious application focused on **[main technical challenge]**.
+
+Built with a focus on **[architecture / performance / scalability / reliability]**.
+
+`Rust` · `PostgreSQL` · `Docker` · `CI/CD`
+
+<br>
+
+**[View repository →](#)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 02 — Game Development
+
+**[Project Name](#)**
+
+A game built around **[gameplay concept / technical challenge]**.
+
+Exploring **[AI / networking / procedural generation / physics / etc.]**.
+
+`C#` · `Unity`
+
+<br>
+
+**[View repository →](#)**
+
+</td>
+
+<td width="50%">
+
+### 03 — Experimental
+
+**[Project Name](#)**
+
+A smaller project exploring **[technology / concept / idea]**.
+
+Something fun, unusual, or simply worth building.
+
+`C++` · `CMake` · `Linux`
+
+<br>
+
+**[View repository →](#)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## BACKGROUND // PLAYER PROFILE
+
+**BUT Informatique**
+`2023 — 2026`
+
+Software development · Computer science · Projects · Systems
+
+<br>
+
+**Current objective**
+
+Looking for a **software development position** or a **Master's degree** where I can keep building, learning, and working on technically interesting problems.
+
+---
+
+## GITHUB ACTIVITY // SYSTEM STATUS
+
+<div align="center">
+
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
+
+</div>
+
+---
+
+## CONTRIBUTION ODYSSEY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathiasdecastro/mathiasdecastro/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## CONTACT // OPEN TO CONNECTIONS
+
+<div align="center">
+
+**Interested in working together, discussing a project, or simply talking tech?**
+
+<br>
+
+[GitHub](https://github.com/mathiasdecastro) · [LinkedIn](https://linkedin.com/in/mathiasdecastro) · [Email](mailto:mathias.decastrozachantke@gmail.com)
+
+<br><br>
+
+*Building things, learning along the way.*
+
+</div>
